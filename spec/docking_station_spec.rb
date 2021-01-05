@@ -1,9 +1,11 @@
 require 'docking_station'
 
 describe DockingStation do
-    
-    # it 'returns "fizzbuzz" when number % 3 == 0 && number % 5 == 0' do
-    #     expect(fizzbuzz(15)).to eq 'fizzbuzz'
-    #   end
+
+  # it 'responds to release_bike' do
+  #   expect(subject).to respond_to :release_bike
+  # end 
+
+  it { is_expected.to respond_to :release_bike }
 
 end
