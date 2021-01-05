@@ -25,3 +25,5 @@ use a bike
 Person -> docking_station -> release_bike -> bike -> use_bike
 
 Person -> working_bike -> bike -> good_bike -> use_bike
+
+Errors are good
