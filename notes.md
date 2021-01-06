@@ -14,6 +14,9 @@ use a bike
 | Person    | |
 | Bike      | working_bike|
 | Docking_Station | release_bike|
+|Docking_Station| return_bike|
+|Docking_Station| inspect_bike|
+
 
 
 Person -> docking_station -> release_bike -> bike -> use_bike
