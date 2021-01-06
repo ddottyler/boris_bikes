@@ -16,6 +16,8 @@ use a bike
 | Docking_Station | release_bike|
 |Docking_Station| return_bike|
 |Docking_Station| inspect_bike|
+|Docking_Station| |no_bikes|
+
 
 
 
